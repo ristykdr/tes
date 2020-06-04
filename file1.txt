@@ -12,5 +12,5 @@ risty-unp, tambahkan materimu di sini :
 2. Struktur data fundamental
 
 ristykelasunp, tambahkan materimu di sini :
-1. Pemrograman Visual
+1. Pemrograman Visual Lanjutan
 2. Pemrograman Database
