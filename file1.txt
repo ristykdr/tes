@@ -8,6 +8,7 @@ Daftar Materi Tambahan :
 5. Database
 
 risty-unp, tambahkan materimu di sini :
-
+1. Pemrograman Visual
+2. Struktur data fundamental
 
 ristykelasunp, tambahkan materimu di sini :
